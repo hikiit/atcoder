@@ -105,3 +105,6 @@ venv.bak/
 
 # venv
 atcoder-venv/
+
+# vscode
+.vscode/
